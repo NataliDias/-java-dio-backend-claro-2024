@@ -1,5 +1,3 @@
-# Meu Projeto Git e GitHub
-
 # DIO | Resumos Git e GitHub
 Repositório criado para armazenar resumos e anotações sobre Git e GitHub, seguindo as aulas e exercícios práticos do curso Claro - Java com Spring Boot.
 
